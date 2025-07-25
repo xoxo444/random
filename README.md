@@ -1,11 +1,8 @@
 # 🛠️ Mini Projects – Python & C
-
 A collection of small, random mini projects built in **Python** 🐍 and **C** 💻.  
 
 ## 🔹 Projects (Examples)
 - `todo.py` – CLI To-Do app (Python)
-- `tic_tac_toe.c` – Terminal game (C)
-- `calculator.py` – Basic calculator
 - More coming soon!
 
 ## 🧪 Run Locally
