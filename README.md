@@ -15,5 +15,5 @@ python filename.py
 
 # C
 gcc file.c -o output && ./output
-
-> Made by [xoxo](https://github.com/xoxo444)
+```
+Made by [xoxo](https://github.com/xoxo444)
