@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-// Function to check leap year
 int isLeapYear(int year) {
     return (year % 400 == 0) || (year % 4 == 0 && year % 100 != 0);
 }
@@ -18,7 +17,6 @@ int getDaysInMonth(int month, int year) {
     }
 }
 
-// Zeller's Congruence to get day of week
 // 0 = Saturday, 1 = Sunday, ..., 6 = Friday
 int getStartDay(int month, int year) {
     if (month < 3) {
@@ -52,7 +50,6 @@ int main() {
     // Since Zeller returns 0=Saturday, convert it:
     startDay = (startDay + 6) % 7;
 
-    // Month names
     const char* months[] = {"January", "February", "March", "April", "May", "June",
                             "July", "August", "September", "October", "November", "December"};
 
