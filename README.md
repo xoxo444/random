@@ -1,9 +1,21 @@
 # 🛠️ Mini Projects – Python & C
 A collection of small, random mini projects built in **Python** 🐍 and **C** 💻.  
 
-## 🔹 Projects (Examples)
-- `todo.py` – CLI To-Do app (Python)
-- More coming soon!
+
+## 🔹 Projects
+
+### 🐍 Python
+- **todo.py** → A simple CLI To-Do app  
+- **randompass.py** → Random password generator  
+- **rockpaperscissors.py** → Rock, Paper, Scissors game  
+- **stopwatch.py** → A basic stopwatch  
+
+### 💻 C
+- **bankmanagementsys.c** → A basic bank management system  
+- **calc.c** → Simple calculator program  
+- **calender.c** → Calendar program  
+
+
 
 ## 🧪 Run Locally
 ```bash
